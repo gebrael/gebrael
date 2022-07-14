@@ -104,7 +104,8 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gebrael&" align="left"/>  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gebrael&show_icons=true&locale=en" alt="gebrael" /></p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrael&show_icons=true&locale=en&layout=compact" align="center" /></div>
+
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrael&show_icons=true&locale=en&layout=compact" align="center" /></div>
 
 <br/>  
 
