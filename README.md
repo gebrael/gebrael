@@ -62,7 +62,7 @@
 
 
 
-### DevOps  
+### Basic Knowledge  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -102,11 +102,11 @@
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/output/github-contribution-grid-snake.gif" align="left" style="width: 100%" />  
   
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gebrael&" align="left"/>  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gebrael&show_icons=true&locale=en" alt="gebrael" /></p>
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=gebrael&" align="center"/> </p>
+<p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=gebrael&show_icons=true&locale=en" alt="gebrael" />
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrael&show_icons=true&locale=en&layout=compact" align="center" /></div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrael&show_icons=true&locale=en&layout=compact"  />
+</p>
 <br/>  
 
   
