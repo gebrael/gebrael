@@ -105,7 +105,7 @@
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=gebrael&" align="center"/> </p>
 <p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=gebrael&show_icons=true&locale=en" alt="gebrael" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrael&show_icons=true&locale=en&layout=compact"  />
+<img max-width= "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gebrael&show_icons=true&locale=en&layout=compact"  />
 </p>
 <br/>  
 
